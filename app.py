@@ -96,7 +96,7 @@ def format_response(issue, response):
 def main():
     #st.sidebar.image('logo.svg')
     # Define the logo path with absolute path check
-    logo_path = os.path.join("C:/Users/d0001056.ttl/Desktop/Knowledgebase_test/logo.svg")
+    logo_path = os.path.join("Knowledgebase_test/logo.svg")
     if os.path.exists(logo_path):
         st.sidebar.image(logo_path)
     else:
