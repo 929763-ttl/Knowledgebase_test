@@ -99,8 +99,8 @@ def main():
     # logo_path = os.path.join("Knowledgebase_test/logo.svg")
     # if os.path.exists(logo_path):
     #     st.sidebar.image(logo_path)
-    else:
-        st.sidebar.write("Logo not found.")
+    # else:
+    #     st.sidebar.write("Logo not found.")
     
     st.sidebar.title("VME Assistant")
     st.title("Issue Chatbot")
