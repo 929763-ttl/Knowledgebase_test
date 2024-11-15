@@ -1,0 +1,6 @@
+tourch
+jaydebeapi
+cx_Oracle
+langchain-huggingface
+langchain_community
+sentence-transformers
