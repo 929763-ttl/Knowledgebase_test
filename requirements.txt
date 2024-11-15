@@ -1,4 +1,4 @@
-tourch
+torch
 jaydebeapi
 cx_Oracle
 langchain-huggingface
